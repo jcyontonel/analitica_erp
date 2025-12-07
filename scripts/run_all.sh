@@ -30,6 +30,7 @@ run_step() {
 run_step "$BASE_DIR/scripts/backup_full.sh" "Backup FULL" || exit 1
 run_step "$BASE_DIR/scripts/backup_maestras.sh" "Backup MAESTROS" || exit 1
 run_step "$BASE_DIR/scripts/backup_transaccionales.sh" "Backup TRANSACCIONALES" || exit 1
+run_step "$BASE_DIR/scripts/clean_old.sh" "Backup CLEAN_OLD" || exit 1
 
 echo "✔ Todos los procesos terminaron correctamente." | tee -a "$LOG_FILE"
 
