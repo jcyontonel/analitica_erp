@@ -6,7 +6,7 @@ LOG_FILE="$LOG_DIR/run_all_$(date +%Y%m%d).log"
 
 # --- CONFIG TELEGRAM ---
 TG_TOKEN="7411878653:AAEgb8ThXxvUZLsqs8I64FZ5jaSNdU7NUXM"
-TG_CHAT_ID="AnaliticaERPbot"
+TG_CHAT_ID="6097460622"
 send_telegram() {
     local mensaje="$1"
     curl -s -X POST "https://api.telegram.org/bot$TG_TOKEN/sendMessage" \

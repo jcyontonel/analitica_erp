@@ -1,4 +1,4 @@
-===== RUN ALL START: Sun Dec  7 00:20:43 -05 2025 =====
+===== RUN ALL START: Sun Dec  7 00:30:08 -05 2025 =====
 ▶ Ejecutando: Backup FULL ...
 /data/data/com.termux/files/home/analitica/scripts/backup_full.sh: line 9: /data/data/com.termux/files/home/analitica/backups/full/erp_full_2025-12-07.sql: No such file or directory
 ✔️ Backup FULL generado: /data/data/com.termux/files/home/analitica/backups/full/erp_full_2025-12-07.sql
