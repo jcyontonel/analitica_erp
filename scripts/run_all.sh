@@ -63,6 +63,7 @@ fi
 echo "✔ Push a GitHub completado." | tee -a "$LOG_FILE"
 
 # --- MENSAJE TELEGRAM SI TODO SALIÓ BIEN ---
-send_telegram "✅ run_all.sh completado correctamente. Todos los backups y push a GitHub se realizaron sin errores. $(date)"
+FECHA=$(date '+%d/%m/%Y %H:%M:%S')
+send_telegram "✅ $FECHA run_all.sh completado correctamente. Todos los backups y push a GitHub se realizaron sin errores."
 
 echo "===== RUN ALL END: $(date) =====" | tee -a "$LOG_FILE"
