@@ -1,0 +1,2 @@
+id,empresa_id,tipo,serie,numero,created_at,updated_at,deleted_at,fecdia,codmes
+1,1,Ticket,T001,1,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-07,202512

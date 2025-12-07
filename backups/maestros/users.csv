@@ -1,5 +1,5 @@
 id,name,apellido,telefono,email,activo,email_verified_at,password,remember_token,created_at,updated_at,deleted_at,fecdia,codmes
-1,Jhonnatan Yontonel,NULL,NULL,jhonnatan@ricopet.com,1,NULL,$2y$12$OhYsmJDmNzrFTHs5S65ueOvJtiq1.5dmucFtwNL4k/DN.q2eqAY3G,NULL,2025-12-05 19:37:33,2025-12-05 19:37:33,NULL,2025-12-06,202512
-2,Sofia Yontonel,NULL,NULL,sofia@ricopet.com,1,NULL,$2y$12$hH/oK2hwcmYWCgAG/gHsButhpnow5F5lHMo7Lej7oQujNlUfnDa66,NULL,2025-12-05 19:37:33,2025-12-05 19:37:33,NULL,2025-12-06,202512
-3,Carlos Yontonel,NULL,NULL,carlos@ricopet.com,1,NULL,$2y$12$Q7fuXXFeXaiFQRt1kCRG5eyFhmJjeRKuCr6jVTB63U0eXVy3rrGE6,NULL,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-06,202512
-4,Rosa Sotelo,NULL,NULL,rosa@ricopet.com,1,NULL,$2y$12$TJiAENzgmpccwGA.ty4..OGSiof7/uuAZot.IO9pzpRM0KVtrcSfS,NULL,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-06,202512
+1,Jhonnatan Yontonel,NULL,NULL,jhonnatan@ricopet.com,1,NULL,$2y$12$OhYsmJDmNzrFTHs5S65ueOvJtiq1.5dmucFtwNL4k/DN.q2eqAY3G,NULL,2025-12-05 19:37:33,2025-12-05 19:37:33,NULL,2025-12-07,202512
+2,Sofia Yontonel,NULL,NULL,sofia@ricopet.com,1,NULL,$2y$12$hH/oK2hwcmYWCgAG/gHsButhpnow5F5lHMo7Lej7oQujNlUfnDa66,NULL,2025-12-05 19:37:33,2025-12-05 19:37:33,NULL,2025-12-07,202512
+3,Carlos Yontonel,NULL,NULL,carlos@ricopet.com,1,NULL,$2y$12$Q7fuXXFeXaiFQRt1kCRG5eyFhmJjeRKuCr6jVTB63U0eXVy3rrGE6,NULL,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-07,202512
+4,Rosa Sotelo,NULL,NULL,rosa@ricopet.com,1,NULL,$2y$12$TJiAENzgmpccwGA.ty4..OGSiof7/uuAZot.IO9pzpRM0KVtrcSfS,NULL,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-07,202512

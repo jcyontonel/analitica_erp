@@ -4,6 +4,16 @@ BASE_DIR="$HOME/analitica"
 LOG_DIR="$BASE_DIR/logs"
 LOG_FILE="$LOG_DIR/run_all_$(date +%Y%m%d).log"
 
+# --- CONFIG TELEGRAM ---
+TG_TOKEN="7411878653:AAEgb8ThXxvUZLsqs8I64FZ5jaSNdU7NUXM"
+TG_CHAT_ID="AnaliticaERPbot"
+send_telegram() {
+    local mensaje="$1"
+    curl -s -X POST "https://api.telegram.org/bot$TG_TOKEN/sendMessage" \
+         -d chat_id="$TG_CHAT_ID" \
+         -d text="$mensaje" >/dev/null 2>&1
+}
+
 mkdir -p "$LOG_DIR"
 
 echo "===== RUN ALL START: $(date) =====" | tee "$LOG_FILE"
@@ -19,6 +29,7 @@ run_step() {
 
     if [ $? -ne 0 ]; then
         echo "❌ ERROR: Falló $name" | tee -a "$LOG_FILE"
+        send_telegram "❌ ERROR en run_all.sh: Falló $name en $(date)"
         return 1
     fi
 
@@ -45,6 +56,7 @@ git push origin main >> "$LOG_FILE" 2>&1
 
 if [ $? -ne 0 ]; then
     echo "❌ ERROR: No se pudo hacer push a GitHub." | tee -a "$LOG_FILE"
+    send_telegram "❌ ERROR en run_all.sh: No se pudo hacer push a GitHub en $(date)"
     exit 1
 fi
 
