@@ -1,0 +1,16 @@
+===== RUN ALL START: Mon Dec  8 02:01:08 -05 2025 =====
+▶ Ejecutando: Backup FULL ...
+/data/data/com.termux/files/home/analitica/scripts/backup_full.sh: line 9: /data/data/com.termux/files/home/analitica/backups/full/erp_full_2025-12-08.sql: No such file or directory
+✔️ Backup FULL generado: /data/data/com.termux/files/home/analitica/backups/full/erp_full_2025-12-08.sql
+✔ OK: Backup FULL
+▶ Ejecutando: Backup MAESTROS ...
+✔️ Backup de tablas maestras actualizado en /data/data/com.termux/files/home/analitica/backups/maestros
+✔ OK: Backup MAESTROS
+▶ Ejecutando: Backup TRANSACCIONALES ...
+✔️ Backups transaccionales generados correctamente en:
+/data/data/com.termux/files/home/analitica/backups/transacciones
+✔ OK: Backup TRANSACCIONALES
+▶ Ejecutando: Backup CLEAN_OLD ...
+✔ OK: Backup CLEAN_OLD
+✔ Todos los procesos terminaron correctamente.
+▶ Subiendo cambios a GitHub...
