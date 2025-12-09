@@ -1,4 +1,4 @@
 id,codigo,descripcion,created_at,updated_at,fecdia,codmes
-1,DNI,Documento Nacional de Identidad,2025-12-05 19:37:33,2025-12-05 19:37:33,2025-12-08,202512
-2,RUC,Registro Único de Contribuyentes,2025-12-05 19:37:33,2025-12-05 19:37:33,2025-12-08,202512
-3,PAS,Pasaporte,2025-12-05 19:37:33,2025-12-05 19:37:33,2025-12-08,202512
+1,DNI,Documento Nacional de Identidad,2025-12-09 01:37:31,2025-12-09 01:37:31,2025-12-09,202512
+2,RUC,Registro Único de Contribuyentes,2025-12-09 01:37:31,2025-12-09 01:37:31,2025-12-09,202512
+3,PAS,Pasaporte,2025-12-09 01:37:31,2025-12-09 01:37:31,2025-12-09,202512

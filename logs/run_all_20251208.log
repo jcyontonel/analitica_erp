@@ -14,3 +14,17 @@
 ✔ OK: Backup CLEAN_OLD
 ✔ Todos los procesos terminaron correctamente.
 ▶ Subiendo cambios a GitHub...
+[main fbf18d8] Backup automático 2025-12-08 02:01:26
+ 15 files changed, 53 insertions(+), 15 deletions(-)
+ create mode 100644 backups/transacciones/compras/compras_2025-12-08.csv
+ create mode 100644 backups/transacciones/correlativos/correlativos_2025-12-08.csv
+ create mode 100644 backups/transacciones/detalle_compras/detalle_compras_2025-12-08.csv
+ create mode 100644 backups/transacciones/detalle_kardex/detalle_kardex_2025-12-08.csv
+ create mode 100644 backups/transacciones/detalle_ventas/detalle_ventas_2025-12-08.csv
+ create mode 100644 backups/transacciones/kardex/kardex_2025-12-08.csv
+ create mode 100644 backups/transacciones/ventas/ventas_2025-12-08.csv
+ create mode 100644 logs/run_all_20251208.log
+To https://github.com/jcyontonel/analitica_erp.git
+   d6bd01c..fbf18d8  main -> main
+✔ Push a GitHub completado.
+===== RUN ALL END: Mon Dec  8 02:01:30 -05 2025 =====

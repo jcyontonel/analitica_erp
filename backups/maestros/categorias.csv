@@ -1,4 +1,39 @@
 id,empresa_id,nombre,descripcion,created_at,updated_at,deleted_at,fecdia,codmes
-1,1,General,Productos generales para mascotas,2025-12-05 19:37:34,2025-12-05 19:37:34,NULL,2025-12-08,202512
-2,1,Alimento balanceado perros,NULL,2025-12-05 21:50:17,2025-12-05 21:50:17,NULL,2025-12-08,202512
-3,1,Alimento balanceado gatos,NULL,2025-12-05 21:50:28,2025-12-05 21:50:28,NULL,2025-12-08,202512
+1,1,Alimentos perros,Alimentos diseñados para cubrir las necesidades nutricionales diarias del perro.,NULL,NULL,NULL,2025-12-09,202512
+2,1,Snacks perros,Premios y golosinas para entrenamiento y refuerzo positivo.,NULL,NULL,NULL,2025-12-09,202512
+3,1,Juguetes perros,Juguetes diseñados para estimular física y mentalmente al perro.,NULL,NULL,NULL,2025-12-09,202512
+4,1,Ropa perros,Prendas para protección del clima o uso estético en perros.,NULL,NULL,NULL,2025-12-09,202512
+5,1,Camas perros,Camas y colchones para el descanso cómodo del perro.,NULL,NULL,NULL,2025-12-09,202512
+6,1,Accesorios perros,Artículos como collares, arneses, platos y otros complementos.,NULL,NULL,NULL,2025-12-09,202512
+7,1,Higiene perros,Productos de limpieza como shampoo, toallitas y cepillos para perros.,NULL,NULL,NULL,2025-12-09,202512
+8,1,Salud perros,Vitaminas, antipulgas y productos veterinarios para el bienestar del perro.,NULL,NULL,NULL,2025-12-09,202512
+9,1,Transportadoras perros,Jaulas y mochilas para traslado seguro del perro.,NULL,NULL,NULL,2025-12-09,202512
+10,1,Alimentos gatos,Alimentos formulados para cubrir las necesidades nutricionales del gato.,NULL,NULL,NULL,2025-12-09,202512
+11,1,Snacks gatos,Premios y bocaditos especiales para gatos.,NULL,NULL,NULL,2025-12-09,202512
+12,1,Juguetes gatos,Juguetes que estimulan el instinto cazador y la actividad del gato.,NULL,NULL,NULL,2025-12-09,202512
+13,1,Ropa gatos,Prendas ligeras o protectoras diseñadas para gatos.,NULL,NULL,NULL,2025-12-09,202512
+14,1,Camas gatos,Camas y refugios cómodos donde el gato puede descansar y dormir.,NULL,NULL,NULL,2025-12-09,202512
+15,1,Accesorios gatos,Collares, platos, areneros y otros complementos para gatos.,NULL,NULL,NULL,2025-12-09,202512
+16,1,Higiene gatos,Productos como arena, shampoo y toallitas para la limpieza felina.,NULL,NULL,NULL,2025-12-09,202512
+17,1,Salud gatos,Suplementos, antipulgas y productos veterinarios para gatos.,NULL,NULL,NULL,2025-12-09,202512
+18,1,Transportadoras gatos,Mochilas y cajas para transportar al gato de forma segura.,NULL,NULL,NULL,2025-12-09,202512
+19,1,Alimentos roedores,Alimentos balanceados para conejos, hámsters y otros roedores.,NULL,NULL,NULL,2025-12-09,202512
+20,1,Snacks roedores,Golosinas ligeras para enriquecer la dieta de pequeños roedores.,NULL,NULL,NULL,2025-12-09,202512
+21,1,Juguetes roedores,Juguetes para morder y entretener a roedores.,NULL,NULL,NULL,2025-12-09,202512
+22,1,Camas roedores,Refugios y materiales para descanso cómodo de pequeños roedores.,NULL,NULL,NULL,2025-12-09,202512
+23,1,Accesorios roedores,Bebederos, comederos y elementos para jaulas de roedores.,NULL,NULL,NULL,2025-12-09,202512
+24,1,Higiene roedores,Sustratos y productos para mantener limpia la jaula.,NULL,NULL,NULL,2025-12-09,202512
+25,1,Salud roedores,Suplementos y productos básicos para el bienestar de roedores.,NULL,NULL,NULL,2025-12-09,202512
+26,1,Transportadoras roedores,Cajas pequeñas para traslado seguro de roedores.,NULL,NULL,NULL,2025-12-09,202512
+27,1,Alimentos aves,Mezcla de semillas o pellets formulados para aves pequeñas y grandes.,NULL,NULL,NULL,2025-12-09,202512
+28,1,Snacks aves,Premios y golosinas que complementan la dieta de las aves.,NULL,NULL,NULL,2025-12-09,202512
+29,1,Juguetes aves,Artículos que estimulan la actividad y reducen el estrés en aves.,NULL,NULL,NULL,2025-12-09,202512
+30,1,Accesorios aves,Perchas, comederos, columpios y artículos para jaulas.,NULL,NULL,NULL,2025-12-09,202512
+31,1,Higiene aves,Productos para limpieza y cuidado del plumaje.,NULL,NULL,NULL,2025-12-09,202512
+32,1,Salud aves,Vitaminas y suplementos que fortalecen la salud de las aves.,NULL,NULL,NULL,2025-12-09,202512
+33,1,Transportadoras aves,Jaulas de transporte seguras para aves domésticas.,NULL,NULL,NULL,2025-12-09,202512
+34,1,Alimentos peces,Alimento en escamas o pellet diseñado para peces de acuario.,NULL,NULL,NULL,2025-12-09,202512
+35,1,Accesorios peces,Decoración, filtros y equipamiento para acuarios.,NULL,NULL,NULL,2025-12-09,202512
+36,1,Salud peces,Tratamientos para el agua y productos que previenen enfermedades.,NULL,NULL,NULL,2025-12-09,202512
+37,1,Higiene peces,Materiales para mantenimiento y limpieza del acuario.,NULL,NULL,NULL,2025-12-09,202512
+38,1,Transportadoras peces,Recipientes apropiados para traslado corto de peces.,NULL,NULL,NULL,2025-12-09,202512
